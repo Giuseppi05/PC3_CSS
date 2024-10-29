@@ -51,7 +51,7 @@ nav .logo{
 .inicial {
     width: 100vw;
     height: 80vh;
-    background-image: url('../images/4.jpg');;
+    background-image: url('images/4.jpg');;
     background-size: cover;
     background-attachment: fixed;
     color: white;
